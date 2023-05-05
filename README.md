@@ -1,8 +1,11 @@
 # weatherApi
 
-Terminal -->
+#Terminal
+
 npm install ==> node_modules
+
 npm test ==> run unit and coverage tests
+
 node src/index.js ==> start project
 
 api:
